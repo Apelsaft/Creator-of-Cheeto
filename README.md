@@ -10,4 +10,4 @@ No you can't use it on BLC or Lunar
 ArraryList on the top right of your screen is under ClickGui
 You open the GUI with /, or right ctrl
 Anything else I can help you with?
-IF TROUBLES ADD Venom#6910
+IF TROUBLES ADD QolMODS#6910
